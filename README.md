@@ -1,5 +1,9 @@
 # IBM Log Analysis bind module
 
+:warning: This module is no longer maintained. The IBM Log Analysis and IBM Cloud Activity Tracker hosted event search services reached end of support on 30 March 2025. Users of these services should use IBM Cloud Logs, which replaces these services. For more information about the replacement service, see:
+- [terraform-ibm-cloud-logs](https://github.com/terraform-ibm-modules/terraform-ibm-cloud-logs)
+- [terraform-ibm-logs-agent](https://github.com/terraform-ibm-modules/terraform-ibm-logs-agent)
+
 Module to bind an existing IBM Log Analysis instance to a cluster.
 
 ## Software dependencies
